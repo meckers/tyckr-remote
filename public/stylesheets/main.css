@@ -1,0 +1,39 @@
+body {
+    font-family: arial, verdana, arial, helvetica;
+    margin: 0;
+}
+
+.welcome-panel {
+    margin: 0 auto;
+    width: 300px;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: #ef90ef;
+}
+
+.fb-comments iframe,
+.fb-comments span {
+    width: 470px !important;
+}
+
+#tyckr-comments-panel {
+    border: 1px solid #9A948B;
+    font-size: 12px;
+    padding: 10px;
+    background-color: white;
+}
+
+#tyckr-comments-header {
+    position: relative;
+    display: inline-block;
+    background-color: white;
+    top: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid #9A948B;
+    border-bottom: none;
+    font-size: 12px;
+    font-weight: bold;
+}
